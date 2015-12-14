@@ -1,7 +1,3 @@
-import math
-from string import ascii_lowercase
-
-
 def checkio(str_number, radix):
     try:
         return int(str_number, radix)
